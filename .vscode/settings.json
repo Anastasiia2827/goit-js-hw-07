@@ -1,0 +1,7 @@
+{
+  "workbench.colorTheme": "Monokai Dimmed",
+  "editor.guides.bracketPairs": true,
+  "workbench.colorCustomizations": {
+  "editor.bracketPairColorization.enabled": true,
+  }
+}
