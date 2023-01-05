@@ -33,9 +33,4 @@ function modalImg(evt) {
     ).show()   
 
 }
-
-// document.querySelector('div.gallery').onclick = () => {
-
-// 	basicLightbox.create(`
-// 		<img width="1400" height="900" scr="">
-// 	`).show()
+// посилання на кожне фото при кліку {evt.target.dataset.source}
